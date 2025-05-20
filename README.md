@@ -14,7 +14,7 @@ DirhamWay is a mobile application developed with **Java** and **Android Studio**
 * [AI Model Integration](#ai-model-integration)
 * [Project Structure](#project-structure)
 * [Contributors](#contributors)
-* [License](#license)
+
 
 ---
 
