@@ -32,13 +32,64 @@ DirhamWay is a mobile application developed with **Java** and **Android Studio**
 
 ##  Architecture (MVVM)
 
-The app follows the **Model-View-ViewModel (MVVM)** architecture for clean separation of concerns and scalability:
+The **DirhamWay** mobile application is designed using the **Model-View-ViewModel (MVVM)** architecture. This separation of concerns ensures a robust, testable, and scalable codebase. Below is a breakdown of each layer and its role in the project:
 
-* **Model** (`data/model/`): Defines entities like `Transaction`, `Goal`, and `UserCategory`.
-* **ViewModel** (`viewmodel/`): Bridges the UI and data layers, handling logic and state.
-* **View** (`ui/`): Activities and UI components, like `LoginActivity`, `DashboardActivity`, etc.
-* **Repository** (`data/repository/`): Abstraction layer for accessing data from Realm.
-* **Session Management** (`data/session/`): Handles logged-in user information.
+---
+
+###  Model (`data/model/`)
+**Purpose:** Represents the data structure and business logic of the application.
+
+**Entities:**
+- **Transaction:** Represents income or expense records, with fields such as amount, date, type, and category.
+- **Goal:** Stores information about saving goals like description, target amount, saved amount, and deadline.
+- **UserCategory:** Links users to their selected spending categories and budgets.
+
+**Characteristics:**
+- All models are stored locally using **Realm**, offering efficient, object-oriented data persistence.
+
+---
+
+###  ViewModel (`viewmodel/`)
+**Purpose:** Acts as an intermediary between the `View` and `Model` layers.
+
+**Responsibilities:**
+- Exposes observable `LiveData` to the UI.
+- Handles business logic such as filtering transactions, computing balances, and managing budget thresholds.
+- Manages asynchronous operations like predictions using **TensorFlow Lite** or data retrieval from the **Realm** database.
+
+---
+
+###  View (`ui/`)
+**Purpose:** Represents the user interface and handles user interactions.
+
+**Components:**
+- `LoginActivity`, `SignUpActivity`: Handle user authentication via **Firebase**.
+- `DashboardActivity`: Displays the financial summary and visual reports.
+- `AnalyseActivity`: Performs budget prediction and shows personalized recommendations.
+- `DefineGoalActivity`, `GoalsListActivity`: Manage user-defined financial goals.
+
+**Tools Used:**
+- **Android Jetpack** libraries such as `ViewModel`, `LiveData`, `RecyclerView`, and `Material Components`.
+
+---
+
+###  Repository (`data/repository/`)
+**Purpose:** Abstracts the data access logic from ViewModels.
+
+**Role:**
+- Interacts directly with the **Realm database** for CRUD operations.
+- Provides clean APIs for retrieving, saving, or updating `Transaction`, `Goal`, and `UserCategory` data.
+- Allows easier testing and mocking of data sources.
+
+---
+
+###  Session Management (`data/session/`)
+**Purpose:** Manages authentication state and user context throughout the app.
+
+**Features:**
+- Stores the authenticated user’s ID locally.
+- Ensures session continuity between app restarts.
+- Used for filtering user-specific data in all views and repositories.
 
 ---
 
