@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="maron">#6a2202</color>
+    <color name="moutarde">#bc7404</color>
+    <color name="moutarde2">#d6a861</color>
+    <color name="maron2">#844c2c</color>
+    <color name="primary_color">#6200EE</color>
+    <color name="light_gray_background">#F5F5F5</color>
+    <color name="secondary_text">#757575</color>
+    <color name="maron3">#d6bcaa</color>
+</resources>

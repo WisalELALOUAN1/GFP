@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <!-- Contenu principal -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/app_bar"
+        android:layout_above="@id/continue_button"
+        android:fillViewport="true"
+        tools:ignore="NotSibling">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- En-tête avec emoji -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:padding="24dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="💰"
+                    android:textSize="48sp"
+                    android:layout_marginBottom="8dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="What's your monthly budget?"
+                    android:textSize="24sp"
+                    android:textColor="@color/maron"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:fontFamily="sans-serif-medium"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Enter your total monthly budget"
+                    android:textSize="16sp"
+                    android:textColor="@color/moutarde2"
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="sans-serif"/>
+            </LinearLayout>
+
+            <!-- Champ de saisie du budget -->
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:layout_marginEnd="24dp"
+                android:layout_marginBottom="24dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="1dp"
+                app:strokeWidth="0dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="16dp">
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Monthly Budget"
+                        app:hintTextColor="@color/maron"
+                        app:boxStrokeColor="@color/moutarde"
+                        app:startIconTint="@color/maron">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/budget_input"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="numberDecimal"
+                            android:textSize="20sp"
+                            android:textColor="#333333"
+                            android:fontFamily="sans-serif-medium"/>
+                    </com.google.android.material.textfield.TextInputLayout>
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+            <!-- Section des conseils de budget -->
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:layout_marginEnd="24dp"
+                android:layout_marginBottom="24dp"
+                app:cardCornerRadius="12dp"
+                app:cardBackgroundColor="#FFF8E1"
+                app:cardElevation="0dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="16dp">
+
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:src="@drawable/ic_lightbulb"
+                        app:tint="@color/moutarde"
+                        android:layout_marginEnd="12dp"
+                        android:layout_gravity="center_vertical"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Tip: A realistic budget helps you track your spending and save more effectively."
+                        android:textSize="14sp"
+                        android:textColor="@color/maron"
+                        android:fontFamily="sans-serif"/>
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+        </LinearLayout>
+    </ScrollView>
+
+    <!-- Bouton continuer -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/continue_button"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="24dp"
+        android:text="Continue"
+        android:textSize="18sp"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        app:cornerRadius="28dp"
+        android:backgroundTint="@color/maron2"/>
+</RelativeLayout>
