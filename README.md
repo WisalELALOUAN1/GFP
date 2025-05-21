@@ -124,8 +124,10 @@ cd GFP
 Below is a visual walkthrough of the key screens that illustrate the user journey within DirhamWay, from authentication to budget prediction, allowing users to efficiently manage and track their personal finances.
 * **Login/Register Screens** (Email or Google)
 Allow users to securely authenticate using either their email and password or their Google account, ensuring flexibility and ease of access.
-![alt text](</Screens/login .png>)
-![alt text](/Screens/signup.png.jpg)
+<p align="center">
+  <img src="/Screens/login.png" alt="Login Screen" width="300"/>
+  <img src="/Screens/signup.png.jpg" alt="Signup Screen" width="300"/>
+</p>
 * **Dashboard** ( total balance, latest transactions)
 Presents a summary of the user's financial status, including current balance and a quick view of recent transactions for better tracking
 ![alt text](/Screens/dashboard.jpg)
