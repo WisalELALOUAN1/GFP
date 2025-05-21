@@ -151,8 +151,9 @@ Provides detailed financial summaries and allows exporting complete reports of g
   <img src="/Screens/reportInterface.jpg" alt="Report Screen" width="200"/> </p>
 
 * **Prediction Screen** <p align="center">
-  <img src="/Screens/prediction.png" alt="Prediction Screen" width="200"/> </p>
 Uses a machine learning model to suggest an optimized distribution of the user's monthly budget across selected spending categories.
+  <img src="/Screens/prediction.png" alt="Prediction Screen" width="200"/> </p>
+
 ---
 
 ##  AI Model Integration
