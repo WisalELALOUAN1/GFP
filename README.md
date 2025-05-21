@@ -104,8 +104,8 @@ The **DirhamWay** mobile application is designed using the **Model-View-ViewMode
 ### Requirements
 
 * Android Studio (version Arctic Fox or later)
-* Java 11+
-* Android SDK Platform 30 or above
+* Java 17+
+* Android SDK Platform 35 or above
 
 ### Setup Steps
 
@@ -121,13 +121,26 @@ cd GFP
 ---
 
 ##  Application Screens
-
+Below is a visual walkthrough of the key screens that illustrate the user journey within DirhamWay, from authentication to budget prediction, allowing users to efficiently manage and track their personal finances.
 * **Login/Register Screens** (Email or Google)
+Allow users to securely authenticate using either their email and password or their Google account, ensuring flexibility and ease of access.
+![alt text](</Screens/login .png>)
+![alt text](/Screens/signup.png.jpg)
 * **Dashboard** ( total balance, latest transactions)
+Presents a summary of the user's financial status, including current balance and a quick view of recent transactions for better tracking
+![alt text](/Screens/dashboard.jpg)
 * **Add Transaction** (Form with category, amount, type)
-* **Define Goal** (Set target amount, current savings, deadline)
+Enables users to add new income or expense entries by specifying the description, amount, type (credit/debit), and category.
+![alt text](/Screens/transactions.jpg)
+* **List of Goals** (Set target amount, current savings, deadline)
+Displays all user-defined financial goals, allowing them to view progress and manage targets with deadlines and saved amounts.
+![alt text](/Screens/listeObjective.jpg)
 * **Report Screen** (PDF export of all goals and transactions)
-
+Provides detailed financial summaries and allows exporting complete reports of goals and transaction history in PDF format.
+![alt text](/Screens/reportInterface.jpg)
+* **Prediction Screen** 
+![alt text](/Screens/prediction.png)
+Uses a machine learning model to suggest an optimized distribution of the user's monthly budget across selected spending categories.
 ---
 
 ##  AI Model Integration
