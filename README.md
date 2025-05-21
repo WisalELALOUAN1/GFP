@@ -124,24 +124,30 @@ cd GFP
 Below is a visual walkthrough of the key screens that illustrate the user journey within DirhamWay, from authentication to budget prediction, allowing users to efficiently manage and track their personal finances.
 * **Login/Register Screens** (Email or Google)
 Allow users to securely authenticate using either their email and password or their Google account, ensuring flexibility and ease of access.
-
-  <img src="/Screens/login.png" alt="Login Screen" width="300"/>
-  <img src="/Screens/signup.png.jpg" alt="Signup Screen" width="300"/>
+    <p align="center">
+  <img src="/Screens/login.png" alt="Login Screen" width="300"/>   </p>
+  <p align="center">
+  <img src="/Screens/signup.png.jpg" alt="Signup Screen" width="300"/> </p>
 
 * **Dashboard** ( total balance, latest transactions)
 Presents a summary of the user's financial status, including current balance and a quick view of recent transactions for better tracking
-<img src="/Screens/dashboard.jpg" alt="Dashboard" width="400"/>
+<p align="center">
+<img src="/Screens/dashboard.jpg" alt="Dashboard" width="400"/> </p>
 * **Add Transaction** (Form with category, amount, type)
 Enables users to add new income or expense entries by specifying the description, amount, type (credit/debit), and category.
-  <img src="/Screens/transactions.jpg" alt="Add Transaction" width="400"/>
+<p align="center">
+  <img src="/Screens/transactions.jpg" alt="Add Transaction" width="400"/> </p>
 * **List of Goals** (Set target amount, current savings, deadline)
 Displays all user-defined financial goals, allowing them to view progress and manage targets with deadlines and saved amounts.
-  <img src="/Screens/listeObjective.jpg" alt="Goals List" width="400"/>
+<p align="center">
+  <img src="/Screens/listeObjective.jpg" alt="Goals List" width="400"/> </p>
 * **Report Screen** (PDF export of all goals and transactions)
 Provides detailed financial summaries and allows exporting complete reports of goals and transaction history in PDF format.
-  <img src="/Screens/reportInterface.jpg" alt="Report Screen" width="400"/>
-* **Prediction Screen** 
-  <img src="/Screens/prediction.png" alt="Prediction Screen" width="400"/>
+<p align="center">
+  <img src="/Screens/reportInterface.jpg" alt="Report Screen" width="400"/> </p>
+
+* **Prediction Screen** <p align="center">
+  <img src="/Screens/prediction.png" alt="Prediction Screen" width="400"/> </p>
 Uses a machine learning model to suggest an optimized distribution of the user's monthly budget across selected spending categories.
 ---
 
