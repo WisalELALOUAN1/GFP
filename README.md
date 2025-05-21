@@ -118,6 +118,13 @@ cd GFP
 2. Add your `google-services` for Firebase integration.
 3. Run the app on an emulator or a physical device.
 
+
+You can directly install the application on any Android device by downloading the latest release:
+
+➡️ Download app-release.apk
+
+This APK contains the full application build, including Firebase authentication, offline storage with Realm, and AI-based budget prediction.
+
 ---
 
 ##  Application Screens
