@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<paths xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- autorise tous les fichiers dans Downloads -->
-    <external-path name="download" path="Download/"/>
-    <!-- autorise files internes si besoin -->
-    <external-files-path name="external_files" path="."/>
-</paths>
