@@ -39,10 +39,8 @@ The **DirhamWay** mobile application is designed using the **Model-View-ViewMode
 ###  Model (`data/model/`)
 **Purpose:** Represents the data structure and business logic of the application.
 
-**Entities:**
-- **Transaction:** Represents income or expense records, with fields such as amount, date, type, and category.
-- **Goal:** Stores information about saving goals like description, target amount, saved amount, and deadline.
-- **UserCategory:** Links users to their selected spending categories and budgets.
+
+
 
 **Characteristics:**
 - All models are stored locally using **Realm**, offering efficient, object-oriented data persistence.
@@ -62,11 +60,6 @@ The **DirhamWay** mobile application is designed using the **Model-View-ViewMode
 ###  View (`ui/`)
 **Purpose:** Represents the user interface and handles user interactions.
 
-**Components:**
-- `LoginActivity`, `SignUpActivity`: Handle user authentication via **Firebase**.
-- `DashboardActivity`: Displays the financial summary and visual reports.
-- `AnalyseActivity`: Performs budget prediction and shows personalized recommendations.
-- `DefineGoalActivity`, `GoalsListActivity`: Manage user-defined financial goals.
 
 **Tools Used:**
 - **Android Jetpack** libraries such as `ViewModel`, `LiveData`, `RecyclerView`, and `Material Components`.
@@ -158,10 +151,13 @@ com.example.gfp
 ├── ui/                        # Activities and UI logic
 │   ├── LoginActivity.java
 │   ├── DashboardActivity.java
-│   └── AnalyseActivity.java
+│   ├── AnalyseActivity.java
+│   └── ...
+|   
 │
 ├── viewmodel/                # MVVM ViewModels
 │   └── UserViewModel.java
+│   └── ...
 │
 ├── data/
 │   ├── model/                # Realm models
