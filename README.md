@@ -125,33 +125,33 @@ Below is a visual walkthrough of the key screens that illustrate the user journe
 * **Login/Register Screens** (Email or Google)
 Allow users to securely authenticate using either their email and password or their Google account, ensuring flexibility and ease of access.
     <p align="center">
-  <img src="/Screens/login.png" alt="Login Screen" width="300"/>   </p>
+  <img src="/Screens/login .png" alt="Login Screen" width="200"/>   </p>
   <p align="center">
-  <img src="/Screens/signup.png.jpg" alt="Signup Screen" width="300"/> </p>
+  <img src="/Screens/signup.png.jpg" alt="Signup Screen" width="200"/> </p>
 
 * **Dashboard** ( total balance, latest transactions)
 Presents a summary of the user's financial status, including current balance and a quick view of recent transactions for better tracking
 <p align="center">
-<img src="/Screens/dashboard.jpg" alt="Dashboard" width="400"/> </p>
+<img src="/Screens/dashboard.jpg" alt="Dashboard" width="200"/> </p>
 
 * **Add Transaction** (Form with category, amount, type)
 Enables users to add new income or expense entries by specifying the description, amount, type (credit/debit), and category.
 <p align="center">
-  <img src="/Screens/transactions.jpg" alt="Add Transaction" width="400"/> </p>
+  <img src="/Screens/transactions.jpg" alt="Add Transaction" width="200"/> </p>
 
 * **List of Goals** (Set target amount, current savings, deadline)
 Displays all user-defined financial goals, allowing them to view progress and manage targets with deadlines and saved amounts.
 <p align="center">
-  <img src="/Screens/listeObjective.jpg" alt="Goals List" width="400"/> </p>
+  <img src="/Screens/listeObjective.jpg" alt="Goals List" width="200"/> </p>
 
-  
+
 * **Report Screen** (PDF export of all goals and transactions)
 Provides detailed financial summaries and allows exporting complete reports of goals and transaction history in PDF format.
 <p align="center">
-  <img src="/Screens/reportInterface.jpg" alt="Report Screen" width="400"/> </p>
+  <img src="/Screens/reportInterface.jpg" alt="Report Screen" width="200"/> </p>
 
 * **Prediction Screen** <p align="center">
-  <img src="/Screens/prediction.png" alt="Prediction Screen" width="400"/> </p>
+  <img src="/Screens/prediction.png" alt="Prediction Screen" width="200"/> </p>
 Uses a machine learning model to suggest an optimized distribution of the user's monthly budget across selected spending categories.
 ---
 
