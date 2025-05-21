@@ -1,0 +1,47 @@
+com.example.gfp.app-core-ktx-1.13.0-0 C:\Users\xeon\.gradle\caches\8.9\transforms\0ebd6bc76930ce824848bf4c2b84a1d9\transformed\core-ktx-1.13.0\res
+com.example.gfp.app-fragment-1.5.4-1 C:\Users\xeon\.gradle\caches\8.9\transforms\1823ff2bbd1662288767c6b22aebd0c4\transformed\fragment-1.5.4\res
+com.example.gfp.app-appcompat-resources-1.7.0-2 C:\Users\xeon\.gradle\caches\8.9\transforms\1be66646717b408b3e89096f08adfa0c\transformed\appcompat-resources-1.7.0\res
+com.example.gfp.app-play-services-auth-20.7.0-3 C:\Users\xeon\.gradle\caches\8.9\transforms\1cf80d408581814bdd76ad98f1669eb5\transformed\play-services-auth-20.7.0\res
+com.example.gfp.app-credentials-1.2.0-rc01-4 C:\Users\xeon\.gradle\caches\8.9\transforms\1f81254796a914242caa61d4f61a87cc\transformed\credentials-1.2.0-rc01\res
+com.example.gfp.app-play-services-cast-framework-22.0.0-5 C:\Users\xeon\.gradle\caches\8.9\transforms\35843a46119dd34aba79c89ac9954be2\transformed\play-services-cast-framework-22.0.0\res
+com.example.gfp.app-firebase-common-21.0.0-6 C:\Users\xeon\.gradle\caches\8.9\transforms\36935868d6418c3be3a6ae7991854b42\transformed\firebase-common-21.0.0\res
+com.example.gfp.app-lifecycle-runtime-2.6.2-7 C:\Users\xeon\.gradle\caches\8.9\transforms\397dc22369671af65f34888171d3be0f\transformed\lifecycle-runtime-2.6.2\res
+com.example.gfp.app-constraintlayout-2.2.1-8 C:\Users\xeon\.gradle\caches\8.9\transforms\3b7bdd8c60062a449e4d122c4f590c1f\transformed\constraintlayout-2.2.1\res
+com.example.gfp.app-viewpager2-1.0.0-9 C:\Users\xeon\.gradle\caches\8.9\transforms\3c1f3b2f706a004274c0d34c6076102d\transformed\viewpager2-1.0.0\res
+com.example.gfp.app-mediarouter-1.6.0-10 C:\Users\xeon\.gradle\caches\8.9\transforms\3e4f27ad6efb091c0c0691d7981ff66d\transformed\mediarouter-1.6.0\res
+com.example.gfp.app-play-services-basement-18.4.0-11 C:\Users\xeon\.gradle\caches\8.9\transforms\4cfed43208daff01a950576260c5bbc9\transformed\play-services-basement-18.4.0\res
+com.example.gfp.app-emoji2-1.3.0-12 C:\Users\xeon\.gradle\caches\8.9\transforms\50ea70a06cf8fcf099615da1c46991ea\transformed\emoji2-1.3.0\res
+com.example.gfp.app-drawerlayout-1.1.1-13 C:\Users\xeon\.gradle\caches\8.9\transforms\55433662e850a1e8ba3f1c1c1396d4ca\transformed\drawerlayout-1.1.1\res
+com.example.gfp.app-cardview-1.0.0-14 C:\Users\xeon\.gradle\caches\8.9\transforms\557a5330970f66a2c8e532cd2da25f87\transformed\cardview-1.0.0\res
+com.example.gfp.app-play-services-base-18.5.0-15 C:\Users\xeon\.gradle\caches\8.9\transforms\5db2f5a4d93416231aeca51e813f9427\transformed\play-services-base-18.5.0\res
+com.example.gfp.app-lifecycle-viewmodel-savedstate-2.6.2-16 C:\Users\xeon\.gradle\caches\8.9\transforms\75b10e209f6525a0b54d57ac6ea45004\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.gfp.app-transition-1.5.0-17 C:\Users\xeon\.gradle\caches\8.9\transforms\7e5380540aedf111c2b5872b30a59c0f\transformed\transition-1.5.0\res
+com.example.gfp.app-play-services-cast-22.0.0-18 C:\Users\xeon\.gradle\caches\8.9\transforms\8ec39acb93f36323e7297e84efd17f58\transformed\play-services-cast-22.0.0\res
+com.example.gfp.app-lifecycle-process-2.6.2-19 C:\Users\xeon\.gradle\caches\8.9\transforms\90fc9a32184cc0000fe310505a25ffb7\transformed\lifecycle-process-2.6.2\res
+com.example.gfp.app-lifecycle-livedata-2.6.2-20 C:\Users\xeon\.gradle\caches\8.9\transforms\98d3d4c8c927fca2da1cb55fdaccc442\transformed\lifecycle-livedata-2.6.2\res
+com.example.gfp.app-profileinstaller-1.4.0-21 C:\Users\xeon\.gradle\caches\8.9\transforms\9a250f5d34e079fcbdb1d0cf3bc48427\transformed\profileinstaller-1.4.0\res
+com.example.gfp.app-annotation-experimental-1.4.0-22 C:\Users\xeon\.gradle\caches\8.9\transforms\ac04854b835ed20d000be135fcf97c7a\transformed\annotation-experimental-1.4.0\res
+com.example.gfp.app-lifecycle-viewmodel-2.6.2-23 C:\Users\xeon\.gradle\caches\8.9\transforms\ad05da792927c1ea15fa791c85122c61\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.gfp.app-core-1.13.0-24 C:\Users\xeon\.gradle\caches\8.9\transforms\ae65f809b29830509b9745b211545adf\transformed\core-1.13.0\res
+com.example.gfp.app-savedstate-1.2.1-25 C:\Users\xeon\.gradle\caches\8.9\transforms\b8fefe1704aef4cb7ca15e2c8591f333\transformed\savedstate-1.2.1\res
+com.example.gfp.app-core-runtime-2.2.0-26 C:\Users\xeon\.gradle\caches\8.9\transforms\b980db57791f02ebd87f80f644378dfa\transformed\core-runtime-2.2.0\res
+com.example.gfp.app-material-1.12.0-27 C:\Users\xeon\.gradle\caches\8.9\transforms\be20ca18fe3bced06791bd4bd8bff64d\transformed\material-1.12.0\res
+com.example.gfp.app-coordinatorlayout-1.1.0-28 C:\Users\xeon\.gradle\caches\8.9\transforms\c5d318f99cda397e9f45150b23460962\transformed\coordinatorlayout-1.1.0\res
+com.example.gfp.app-emoji2-views-helper-1.3.0-29 C:\Users\xeon\.gradle\caches\8.9\transforms\c62184e4b1aaabc819cd9a0f8326ead8\transformed\emoji2-views-helper-1.3.0\res
+com.example.gfp.app-activity-1.10.1-30 C:\Users\xeon\.gradle\caches\8.9\transforms\c72010ffb98dc20d4debd52b9aac04cc\transformed\activity-1.10.1\res
+com.example.gfp.app-appcompat-1.7.0-31 C:\Users\xeon\.gradle\caches\8.9\transforms\c9223b7362dc970eaa1a5ad6f7de9ff2\transformed\appcompat-1.7.0\res
+com.example.gfp.app-lifecycle-livedata-core-2.6.2-32 C:\Users\xeon\.gradle\caches\8.9\transforms\cedff50e9acdf6095116548e4574955b\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.gfp.app-startup-runtime-1.1.1-33 C:\Users\xeon\.gradle\caches\8.9\transforms\d1f820ac62ebaa6528d6121734f2dc58\transformed\startup-runtime-1.1.1\res
+com.example.gfp.app-recyclerview-1.1.0-34 C:\Users\xeon\.gradle\caches\8.9\transforms\d7f2a46e293d7f8511afcd56eef2d5ef\transformed\recyclerview-1.1.0\res
+com.example.gfp.app-credentials-play-services-auth-1.2.0-rc01-35 C:\Users\xeon\.gradle\caches\8.9\transforms\e0d4b2e266943f31f2a4028c86edd49f\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.gfp.app-core-viewtree-1.0.0-36 C:\Users\xeon\.gradle\caches\8.9\transforms\e3fd4c3212dc33228ddead1f81e76675\transformed\core-viewtree-1.0.0\res
+com.example.gfp.app-media-1.6.0-37 C:\Users\xeon\.gradle\caches\8.9\transforms\ee118726d2bedafa5575e9889548c1e4\transformed\media-1.6.0\res
+com.example.gfp.app-browser-1.4.0-38 C:\Users\xeon\.gradle\caches\8.9\transforms\f9224f4284d1d3fface1463c0b171857\transformed\browser-1.4.0\res
+com.example.gfp.app-google-services-39 C:\Users\xeon\Desktop\Projet Mobile\GFP\GFP\app\build\generated\res\google-services\debug
+com.example.gfp.app-pngs-40 C:\Users\xeon\Desktop\Projet Mobile\GFP\GFP\app\build\generated\res\pngs\debug
+com.example.gfp.app-resValues-41 C:\Users\xeon\Desktop\Projet Mobile\GFP\GFP\app\build\generated\res\resValues\debug
+com.example.gfp.app-packageDebugResources-42 C:\Users\xeon\Desktop\Projet Mobile\GFP\GFP\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.gfp.app-packageDebugResources-43 C:\Users\xeon\Desktop\Projet Mobile\GFP\GFP\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.gfp.app-debug-44 C:\Users\xeon\Desktop\Projet Mobile\GFP\GFP\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.gfp.app-debug-45 C:\Users\xeon\Desktop\Projet Mobile\GFP\GFP\app\src\debug\res
+com.example.gfp.app-main-46 C:\Users\xeon\Desktop\Projet Mobile\GFP\GFP\app\src\main\res

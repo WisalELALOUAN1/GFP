@@ -1,0 +1,2 @@
+com.example.gfp.test:style/WhiteBackgroundTheme = 0x7f010001
+com.example.gfp.test:style/WhiteBackgroundDialogTheme = 0x7f010000

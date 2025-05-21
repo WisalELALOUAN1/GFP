@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">312822879890-ad331rh1n6d349b9jb2jfnub45m3euiu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">312822879890</string>
+    <string name="google_api_key" translatable="false">AIzaSyA9zxueXIytcX5GlNTq7FAtfuMULg8bOck</string>
+    <string name="google_app_id" translatable="false">1:312822879890:android:a50980dccf318547e3b84b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA9zxueXIytcX5GlNTq7FAtfuMULg8bOck</string>
+    <string name="google_storage_bucket" translatable="false">gestionfinanceperso.firebasestorage.app</string>
+    <string name="project_id" translatable="false">gestionfinanceperso</string>
+</resources>

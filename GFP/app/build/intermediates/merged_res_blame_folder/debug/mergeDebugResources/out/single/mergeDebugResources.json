@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_recents.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_recents.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_radio_button.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_monthly_budget.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_monthly_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_transactions.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_transactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_arrow_up.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_arrow_up.xml"
+    },
+    {
+        "merged": "com.example.gfp.app-debug-44:/layout_activity_define_goal.xml.flat",
+        "source": "com.example.gfp.app-main-46:/layout/activity_define_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_fragment_goals_report.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\fragment_goals_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_wave_pattern.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\wave_pattern.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_transactions.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_transactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_radio_unchecked.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_radio_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_fragment_report_list.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\fragment_report_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_custom_progress_bar.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\custom_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_bottom_navbar.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\bottom_navbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_analytics.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_analytics.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_pdf.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_item_goal.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\item_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_analyse.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_analyse.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_reports.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_pro_badge_background.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\pro_badge_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_switch_track.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_goals_list.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_goals_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_item_goal_report.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\item_goal_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\color_switch_track_color.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\color\\switch_track_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_charges.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_charges.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_reports.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_lightbulb.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_lightbulb.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_sync.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_budget.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_bottom_nav_background.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\bottom_nav_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_radio_selector.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\radio_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_modify_goal.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_modify_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_radio_checked.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_radio_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\color_bottom_nav_colors.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\color\\bottom_nav_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_goal.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_tag.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_define_goal.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_define_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_header_background.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_categories.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_categories.xml"
+    },
+    {
+        "merged": "com.example.gfp.app-debug-44:/layout_activity_transactions.xml.flat",
+        "source": "com.example.gfp.app-main-46:/layout/activity_transactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_item_charge.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\item_charge.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_item_transaction.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_category_options.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_category_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_switch_thumb.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_activity_analyse.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\activity_analyse.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_transaction.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_navbar.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\navbar.xml"
+    },
+    {
+        "merged": "com.example.gfp.app-debug-44:/layout_activity_goals_list.xml.flat",
+        "source": "com.example.gfp.app-main-46:/layout/activity_goals_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\color_bottom_nav_selector.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\color\\bottom_nav_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\layout_item_option.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\layout\\item_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_empty_view_background.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\empty_view_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_chart_bar.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_chart_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_finances_personnelles.jpg.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\finances_personnelles.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\drawable_ic_loan.xml.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\drawable\\ic_loan.xml"
+    },
+    {
+        "merged": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-debug-44:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\xeon\\.gradle\\daemon\\8.9\\com.example.gfp.app-main-46:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    }
+]

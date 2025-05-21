@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="report_types">
+        <item>Transactions</item>
+        <item>Active Goals</item>
+        <item>Completed Goals</item>
+        <item>Expired Goals</item>
+    </string-array>
+    <string-array name="transaction_types">
+        <item>Credit</item>
+        <item>Debit</item>
+    </string-array>
+    <color name="background_gray">#F9F4EC</color>
+    <color name="black">#FF000000</color>
+    <color name="green">#096F00</color>
+    <color name="light_gray_background">#F5F5F5</color>
+    <color name="maron">#6a2202</color>
+    <color name="maron2">#844c2c</color>
+    <color name="maron3">#d6bcaa</color>
+    <color name="moutarde">#bc7404</color>
+    <color name="moutarde2">#d6a861</color>
+    <color name="option_background">#f2e8fa</color>
+    <color name="primary_color">#844c2c</color>
+    <color name="primary_dark">#844C2C</color>
+    <color name="primary_light">#FFC2A2</color>
+    <color name="red">#A60000</color>
+    <color name="secondary_text">#757575</color>
+    <color name="selected_option_background">#e8d8f7</color>
+    <color name="switch_brown">#8B4513</color>
+    <color name="switch_brown_track">#D2B48C</color>
+    <color name="switch_thumb_normal">#FFFFFF</color>
+    <color name="switch_track_normal">#CCCCCC</color>
+    <color name="text_dark">#333333</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">1dp</dimen>
+    <dimen name="option_height">60dp</dimen>
+    <dimen name="option_margin_bottom">12dp</dimen>
+    <dimen name="radio_padding">8dp</dimen>
+    <string name="app_name">DirhamWay</string>
+    <string name="default_web_client_id" translatable="false">312822879890-ad331rh1n6d349b9jb2jfnub45m3euiu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">312822879890</string>
+    <string name="google_api_key" translatable="false">AIzaSyA9zxueXIytcX5GlNTq7FAtfuMULg8bOck</string>
+    <string name="google_app_id" translatable="false">1:312822879890:android:a50980dccf318547e3b84b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA9zxueXIytcX5GlNTq7FAtfuMULg8bOck</string>
+    <string name="google_storage_bucket" translatable="false">gestionfinanceperso.firebasestorage.app</string>
+    <string name="project_id" translatable="false">gestionfinanceperso</string>
+    <style name="Base.Theme.GFP" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="tabStyle">@style/TabLayoutStyle</item>
+    </style>
+    <style name="TabLayoutStyle" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabIndicatorColor">@color/primary_color</item>
+        <item name="tabSelectedTextColor">@color/primary_dark</item>
+        <item name="tabTextColor">@color/secondary_text</item>
+        <item name="tabRippleColor">@color/primary_light</item>
+        <item name="tabBackground">?attr/selectableItemBackground</item>
+        <item name="tabGravity">fill</item>
+        <item name="tabMode">fixed</item>
+    </style>
+    <style name="Theme.App" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="tabStyle">@style/TabLayoutStyle</item>
+    </style>
+    <style name="Theme.GFP" parent="Base.Theme.GFP"/>
+</resources>

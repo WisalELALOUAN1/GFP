@@ -103,7 +103,7 @@ The **DirhamWay** mobile application is designed using the **Model-View-ViewMode
 
 ### Requirements
 
-* Android Studio (version Arctic Fox or later)
+* Android Studio 
 * Java 17+
 * Android SDK Platform 35 or above
 
