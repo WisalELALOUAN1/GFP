@@ -1,5 +1,6 @@
 package com.example.gfp.data.model;
 
+import io.realm.RealmList;
 import io.realm.RealmObject;
 import io.realm.annotations.PrimaryKey;
 import io.realm.annotations.Required;
@@ -7,7 +8,7 @@ import io.realm.annotations.Required;
 public class User extends RealmObject {
 
     @PrimaryKey
-    private int id;
+    private int idUser;
 
     @Required
     private String email;
@@ -23,13 +24,39 @@ public class User extends RealmObject {
 
     private String currency;
     private double monthlyBudget;
+    private int firstLogin;
+    private RealmList<Goal> goals;
+
 
     // --- Getters et Setters ---
-    public int getId() {
-        return id;
+    public int getFirstLogin() {
+        return firstLogin;
     }
 
-    public void setId(int id) { this.id = id; }
+    public void setFirstLogin(int firstLogin) {
+        this.firstLogin = firstLogin;
+    }
+
+
+    public int getIdUser() {
+        return idUser;
+    }
+
+    public void setIdUser(int id) { this.idUser = id; }
+    public RealmList<Goal> getGoals() {
+        return goals;
+    }
+
+    public void setGoals(RealmList<Goal> goals) {
+        this.goals = goals;
+    }
+
+    public void addGoal(Goal goal) {
+        if (goals == null) {
+            goals = new RealmList<>();
+        }
+        goals.add(goal);
+    }
 
     public String getEmail() {
         return email;

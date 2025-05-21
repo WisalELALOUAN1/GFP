@@ -36,31 +36,21 @@
             android:layout_width="24dp"
             android:layout_height="24dp"
             android:layout_marginEnd="16dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:focusable="true"
             android:src="@drawable/ic_sync"
-            app:tint="#844c2c"
-            android:clickable="true"
-            android:focusable="true"
-            android:background="?attr/selectableItemBackgroundBorderless" />
+            app:tint="#844c2c" />
+
 
         <ImageView
-            android:id="@+id/btn_search"
+            android:id="@+id/btn_logout"
             android:layout_width="24dp"
             android:layout_height="24dp"
-            android:layout_marginEnd="16dp"
-            android:src="@drawable/ic_search"
-            app:tint="#844c2c"
+            android:background="?attr/selectableItemBackgroundBorderless"
             android:clickable="true"
             android:focusable="true"
-            android:background="?attr/selectableItemBackgroundBorderless" />
-
-        <ImageView
-            android:id="@+id/btn_settings"
-            android:layout_width="24dp"
-            android:layout_height="24dp"
-            android:src="@drawable/ic_settings"
-            app:tint="#844c2c"
-            android:clickable="true"
-            android:focusable="true"
-            android:background="?attr/selectableItemBackgroundBorderless" />
+            android:src="@drawable/ic_logout"
+            app:tint="#844c2c" />
     </LinearLayout>
 </RelativeLayout>

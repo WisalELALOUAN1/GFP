@@ -1,5 +1,6 @@
 package com.example.gfp.ui;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.Toast;
@@ -12,15 +13,24 @@ import com.example.gfp.R;
 import com.example.gfp.data.model.User;
 
 import com.example.gfp.data.repository.AuthRepository;
+import com.example.gfp.data.session.SessionManager;
 import com.example.gfp.viewmodel.UserViewModel;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseUser;
 
+import javax.inject.Inject;
+
+import dagger.hilt.android.AndroidEntryPoint;
+import io.realm.Realm;
+
+@AndroidEntryPoint
 public class SignUpActivity extends AppCompatActivity {
 
     private UserViewModel userViewModel;
     private TextInputEditText etNom, etPrenom, etEmail, etPassword, etConfirm;
     private Button btnSignUp;
+    @Inject
+    SessionManager session;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -58,11 +68,16 @@ public class SignUpActivity extends AppCompatActivity {
                     user.setPassword(pass);
                     user.setCurrency("MAD");
                     user.setMonthlyBudget(0);
-                    Log.d("SIGN_UP_FLOW", "✅ Avant sauvegarde dans Realm");
+                    Log.d("SIGN_UP_FLOW", "Avant sauvegarde dans Realm");
+                    Log.d("AuthFlow", "SignUp complete - redirecting to Welcome");
                     userViewModel.saveUserProfile(user);
+                    session.setUserId(user.getIdUser());
+                    session.setUserEmail(user.getEmail());
 
                     Toast.makeText(SignUpActivity.this, "Compte créé !", Toast.LENGTH_SHORT).show();
-                    finish(); // retour au login
+                    startActivity(new Intent(
+                            SignUpActivity.this,
+                            WelcomeActivity.class));
                 }
 
                 @Override

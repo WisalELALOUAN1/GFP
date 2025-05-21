@@ -351,7 +351,8 @@
                     android:layout_margin="8dp"
                     app:cardBackgroundColor="#FBAE8D"
                     app:cardCornerRadius="24dp"
-                    app:cardElevation="0dp">
+                    app:cardElevation="0dp"
+                    android:onClick="onGoalsCardClick">
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -383,7 +384,7 @@
 
                             <ImageView
                                 android:layout_width="20dp"
-                                android:layout_height="20dp"
+                                android:layout_height="14dp"
                                 android:src="@drawable/ic_arrow_right"
                                 app:tint="#FFFFFF" />
                         </LinearLayout>
@@ -407,7 +408,8 @@
                     android:layout_margin="8dp"
                     app:cardBackgroundColor="#EBC7A7"
                     app:cardCornerRadius="24dp"
-                    app:cardElevation="0dp">
+                    app:cardElevation="0dp"
+                    android:onClick="onTransactionsCardClick">
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -470,7 +472,7 @@
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
 
-                <!-- Tags Card -->
+                <!-- Reports Card (remplace Tags Card) -->
                 <androidx.cardview.widget.CardView
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
@@ -479,7 +481,8 @@
                     android:layout_margin="8dp"
                     app:cardBackgroundColor="#B47F4B"
                     app:cardCornerRadius="24dp"
-                    app:cardElevation="0dp">
+                    app:cardElevation="0dp"
+                    android:onClick="onReportsCardClick">
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -496,7 +499,7 @@
                             <ImageView
                                 android:layout_width="24dp"
                                 android:layout_height="24dp"
-                                android:src="@drawable/ic_tag"
+                                android:src="@drawable/ic_reports"
                                 app:tint="#FFFFFF" />
 
                             <TextView
@@ -504,7 +507,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="8dp"
                                 android:layout_weight="1"
-                                android:text="Tags"
+                                android:text="Reports"
                                 android:textColor="#FFFFFF"
                                 android:textSize="16sp"
                                 android:textStyle="bold" />
@@ -520,7 +523,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="16dp"
-                            android:text="0 Tags"
+                            android:text="View reports"
                             android:textColor="#F1E6DA"
                             android:textSize="14sp" />
                     </LinearLayout>
@@ -535,7 +538,8 @@
                     android:layout_margin="8dp"
                     app:cardBackgroundColor="#FFD499"
                     app:cardCornerRadius="24dp"
-                    app:cardElevation="0dp">
+                    app:cardElevation="0dp"
+                    android:onClick="onAnalyseCardClick"  >
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -573,22 +577,8 @@
 
 
 
-    <!-- FAB Button -->
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/fab_add"
-        android:layout_width="64dp"
-        android:layout_height="64dp"
-        android:layout_gravity="bottom|end"
-        android:layout_marginEnd="24dp"
-        android:layout_marginBottom="80dp"
-        android:backgroundTint="#bc7404"
-        app:borderWidth="0dp"
-        app:tint="#FFFFFF"
-        app:fabCustomSize="64dp"
-        app:maxImageSize="28dp"
-        app:elevation="4dp"
-        android:src="@drawable/ic_add" />
 
+    <include layout="@layout/bottom_navbar"/>
 
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

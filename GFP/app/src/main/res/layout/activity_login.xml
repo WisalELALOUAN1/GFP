@@ -6,50 +6,51 @@
     android:layout_height="match_parent"
     android:background="#FFFFFF">
 
-    <!-- Background image -->
+    <!-- Background image with reduced height to make room for content -->
     <ImageView
+        android:id="@+id/imgBackground"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="180dp"
         android:scaleType="centerCrop"
         android:src="@drawable/finances_personnelles"
-        android:adjustViewBounds="true"
         android:layout_alignParentTop="true"/>
 
+    <!-- ScrollView to make the content scrollable -->
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:fillViewport="true">
+        android:fillViewport="true"
+        android:layout_below="@id/imgBackground"
+        android:paddingBottom="16dp"
+        android:clipToPadding="false">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:padding="24dp"
-            android:layout_centerInParent="true"
-            android:layout_marginTop="200dp">
+            android:padding="24dp">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="25dp"
+                android:layout_marginBottom="20dp"
                 android:text="@string/app_name"
                 android:textColor="@color/moutarde"
-                android:textSize="28sp"
+                android:textSize="24sp"
                 android:textStyle="bold" />
 
             <com.google.android.gms.common.SignInButton
                 android:id="@+id/btnGoogleSignIn"
                 android:layout_width="match_parent"
-                android:layout_height="38dp"
-                android:layout_marginBottom="22dp"
-                android:text="Sign in with Google" />
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp" />
 
             <!-- "Or" divider with lines -->
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="22dp">
+                android:layout_marginBottom="16dp">
 
                 <View
                     android:layout_width="match_parent"
@@ -72,13 +73,13 @@
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="16dp"
+                android:layout_marginBottom="12dp"
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etEmailLogin"
                     android:layout_width="match_parent"
-                    android:layout_height="61dp"
+                    android:layout_height="wrap_content"
                     android:hint="Email"
                     android:inputType="textEmailAddress" />
             </com.google.android.material.textfield.TextInputLayout>
@@ -87,7 +88,7 @@
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="24dp"
+                android:layout_marginBottom="16dp"
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
 
                 <com.google.android.material.textfield.TextInputEditText
@@ -106,7 +107,7 @@
                 android:text="Sign in"
                 android:textColor="#FFFFFF"
                 android:backgroundTint="@color/maron2"
-                android:layout_marginBottom="16dp"/>
+                android:layout_marginBottom="12dp"/>
 
             <!-- "Forgot password?" Link -->
             <TextView
@@ -116,7 +117,7 @@
                 android:text="Forgot password?"
                 android:textColor="@color/maron"
                 android:layout_gravity="center"
-                android:layout_marginBottom="24dp"/>
+                android:layout_marginBottom="16dp"/>
 
             <!-- "Sign up" Link -->
             <TextView
@@ -126,9 +127,10 @@
                 android:text="New user? Sign up →"
                 android:textColor="#000000"
                 android:layout_gravity="center"
-                android:layout_marginBottom="24dp"
+                android:layout_marginBottom="16dp"
                 android:clickable="true"
-                android:focusable="true"/>
+                android:focusable="true"
+                android:padding="8dp"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
