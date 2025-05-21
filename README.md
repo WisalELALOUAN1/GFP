@@ -133,14 +133,18 @@ Allow users to securely authenticate using either their email and password or th
 Presents a summary of the user's financial status, including current balance and a quick view of recent transactions for better tracking
 <p align="center">
 <img src="/Screens/dashboard.jpg" alt="Dashboard" width="400"/> </p>
+
 * **Add Transaction** (Form with category, amount, type)
 Enables users to add new income or expense entries by specifying the description, amount, type (credit/debit), and category.
 <p align="center">
   <img src="/Screens/transactions.jpg" alt="Add Transaction" width="400"/> </p>
+
 * **List of Goals** (Set target amount, current savings, deadline)
 Displays all user-defined financial goals, allowing them to view progress and manage targets with deadlines and saved amounts.
 <p align="center">
   <img src="/Screens/listeObjective.jpg" alt="Goals List" width="400"/> </p>
+
+  
 * **Report Screen** (PDF export of all goals and transactions)
 Provides detailed financial summaries and allows exporting complete reports of goals and transaction history in PDF format.
 <p align="center">
